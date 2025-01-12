@@ -1,0 +1,60 @@
+p.one{
+    height: 30px;
+    width: 700px;
+    border-style: solid;
+
+}
+p.two{
+    height: 30px;
+    width: 700px;
+    border-style: solid;
+    border-width: thick;
+}
+p.three{
+    height: 30px;
+    width: 700px;
+    border-style: solid;
+    border-width: 1px 4px 12px 4px;
+}
+p.four{
+    height:30px;
+    width: 700px;
+    border-style: dotted;
+}
+p.five{
+    height:30px;
+    width: 700px;
+    border-style: dashed;
+}
+p.six{
+    height:30px;
+    width: 700px;
+    border-style: double;
+}
+p.seven{
+    height:30px;
+    width: 700px;
+    border-style: solid;
+    border-color: lightgreen;
+}
+p.eight{
+    height:30px;
+    width: 700px;
+    border-style: solid;
+    border-color: blue;
+}
+p.nine{
+    height:30px;
+    width: 700px;
+    border-style: solid;
+    border-color: red blue green orange;
+}
+p.ten{
+    height:30px;
+    width: 700px;
+    border: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    border-style: dashed;
+    border-color: red blue green orange;
+}

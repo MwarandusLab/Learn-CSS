@@ -1,0 +1,18 @@
+p.padding{
+    width: 275px;
+    border: 2px solid #0088dd;
+}
+p.example{
+    width: 275px;
+    border: 2px solid #0088dd;
+    padding: 10px;
+}
+p.margin{
+    width: 275px;
+    border: 2px solid lightgreen;
+}
+p.examples{
+    width: 275px;
+    border: 2px solid lightgreen;
+    margin: 50px 0px;
+}
