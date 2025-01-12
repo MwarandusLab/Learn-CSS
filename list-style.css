@@ -1,0 +1,9 @@
+ol{
+    list-style-type: lower-roman;
+}
+li.fruits{
+    width: 100px;
+    border: 2px solid blue;
+    margin-left: 500px;
+    list-style-image: url("star.png");
+}
